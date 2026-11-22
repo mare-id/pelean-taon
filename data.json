@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:00:00.000Z",
+ "updated": "2026-11-22T11:46:32.493Z",
  "items": [
   {
    "nama": "Kel. Op. Nisi Barel Naibaho Br Siregar",
@@ -168,18 +168,6 @@
    "lingkungan": "Letare",
    "jumlah": 500000,
    "tanggal": "2026-06-07"
-  },
-  {
-   "nama": "Kel. Op. Natania Purba Br Naibaho",
-   "lingkungan": "Letare",
-   "jumlah": 250000,
-   "tanggal": "2026-06-14"
-  },
-  {
-   "nama": "Kel. Ama Natania Purba",
-   "lingkungan": "Letare",
-   "jumlah": 150000,
-   "tanggal": "2026-06-14"
   },
   {
    "nama": "Kel. Ama Gabrian Simamora Br Sihombing",
@@ -1332,6 +1320,42 @@
    "lingkungan": "Jeremia",
    "jumlah": 300000,
    "tanggal": "2026-11-15"
+  },
+  {
+   "nama": "Kel. Ama Friska Ompusunggu/ Br. Siahaan",
+   "lingkungan": "Galatia",
+   "jumlah": 200000,
+   "tanggal": "2026-11-22"
+  },
+  {
+   "nama": "Kel. St. J. Sihite/ Br. Lumban Tobing",
+   "lingkungan": "Letare",
+   "jumlah": 500000,
+   "tanggal": "2026-11-22"
+  },
+  {
+   "nama": "Kel. Ama Riski Rajagukguk/ Br. Silaban",
+   "lingkungan": "Exaudi",
+   "jumlah": 200000,
+   "tanggal": "2026-11-22"
+  },
+  {
+   "nama": "Kel. Op. Goklas Sitopu (+)/ Br. Saragih",
+   "lingkungan": "Jeremia",
+   "jumlah": 300000,
+   "tanggal": "2026-11-22"
+  },
+  {
+   "nama": "Kel. Ama Gisela Sihombing/ Br. Sitopu",
+   "lingkungan": "Jeremia",
+   "jumlah": 250000,
+   "tanggal": "2026-11-22"
+  },
+  {
+   "nama": "Kel. Ama Kokoh Togatorop/ Br. Bagariang",
+   "lingkungan": "Judika",
+   "jumlah": 300000,
+   "tanggal": "2026-11-22"
   }
  ]
 }
